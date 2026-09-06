@@ -1,0 +1,147 @@
+Build a high-converting, mobile-first e-commerce website for HairQure, a natural hair growth brand targeting postpartum mothers, Muslim women, and the natural hair community.
+
+Brand Overview
+Mission: Natural hair recovery for mothers and women of faith
+Products: Hair Growth Oil ($30), Whipped Hair Butter Cream ($20), Herbal Hair Mist ($15), Silk Bonnets ($20-30)
+Target Audience: Postpartum mothers (25-40), Muslim women, natural hair enthusiasts (US, UK, Middle East, South Asia)
+Brand Voice: Warm, sisterly, empowering, culturally resonant
+Core Message: "You grew a human. Now grow your hair back."
+Design Requirements
+Color Palette:
+
+Primary: Deep emerald green (#2D5F3F)
+Secondary: Warm terracotta (#D4816F)
+Accent: Gold (#D4AF37)
+Neutrals: Cream (#F5F1E8), soft beige
+Visual Style:
+
+Clean, modern, natural aesthetic
+High-quality product photography with natural lighting
+Real customer transformations (before/after)
+Diverse representation (skin tones, hijab/no hijab, postpartum bodies)
+Mobile-first, fast-loading, conversion-optimized
+Required Pages & Features
+1. Homepage
+
+Hero section with compelling headline: "Natural Hair Recovery for Mothers & Women of Faith"
+Subheadline: "Postpartum hair loss? Thinning edges? Get your confidence back with clean, halal-certified formulas"
+CTA button: "Shop Now" (prominent, gold)
+Trust badges: "3,000+ Mothers Transformed" | "100% Natural" | "Halal Certified" | "Ships to US, UK, Middle East"
+Featured products carousel (4 products with images, prices, "Add to Cart")
+Customer testimonials section with before/after photos
+Instagram feed integration (#HairQureJourney)
+Email capture popup: "Get 15% Off + Free Hair Growth Guide"
+2. Shop/Products Page
+
+Grid layout with filters (Product Type, Price, Hair Concern)
+Each product card: Image, name, price, star rating, "Quick View" + "Add to Cart"
+Product bundles highlighted: "Growth Kit" (Oil + Butter), "Complete Set" (Oil + Butter + Mist)
+3. Individual Product Pages
+
+High-quality product images (5+ per product, zoomable)
+Product name + one-line benefit
+Price (prominent)
+"Add to Cart" button (large, gold, sticky on mobile)
+Product description with:
+The Problem (2-3 sentences)
+The Solution (2-3 sentences)
+Key Benefits (bullet points with checkmarks)
+Key Ingredients (with icons: rosemary, castor oil, biotin, etc.)
+How to Use (numbered steps)
+What to Expect (Week 1-2, Week 3-4, Week 6-8 timeline)
+Perfect For (postpartum mothers, natural hair, protective styles, etc.)
+Customer reviews section (star ratings, photos, verified purchase badges)
+"You May Also Like" related products
+FAQ accordion (shipping, ingredients, safety, results timeline)
+4. About Us Page
+
+Founder story (personal postpartum hair loss journey)
+Brand mission and values
+Ingredient sourcing transparency
+Community impact (#HairQureJourney)
+Photos: Founder, product creation process, customer community
+5. Customer Results / Testimonials Page
+
+Grid of before/after transformations
+Filter by concern (postpartum, edges, thickness, heat damage)
+Customer quotes with photos
+Video testimonials (embedded)
+CTA: "Start Your Journey"
+6. Hair Growth Guide (Lead Magnet Landing Page)
+
+Headline: "Free 7-Day Hair Growth Kickstart Guide"
+What's included (bullet points)
+Email capture form
+Instant PDF download + email delivery
+7. Cart & Checkout
+
+Clean, distraction-free checkout
+Progress indicator (Cart → Info → Payment)
+Guest checkout enabled
+Multiple payment options (credit card, PayPal, Apple Pay, Google Pay)
+Shipping calculator
+Trust badges (secure checkout, money-back guarantee)
+Order summary sidebar (sticky on desktop)
+8. Footer
+
+Quick Links: Shop, About, Contact, FAQ, Shipping, Returns
+Social media icons (Instagram, TikTok, Facebook, Pinterest)
+Email signup: "Join 2,000+ women on their hair growth journey"
+Legal: Privacy Policy, Terms of Service, Refund Policy
+Technical Requirements
+Platform: Shopify-compatible (or build with Shopify integration for orders/payments)
+
+Must-Have Features:
+
+Mobile-responsive (60%+ traffic will be mobile)
+Fast loading (<3 seconds)
+SEO-optimized (meta titles, descriptions, alt tags)
+Email capture popup (exit-intent + timed)
+Instagram feed integration
+Product reviews/ratings system
+Abandoned cart recovery (email integration)
+Analytics tracking (Google Analytics, Facebook Pixel, TikTok Pixel)
+Live chat widget (optional: Tidio or similar)
+Conversion Optimization:
+
+Sticky "Add to Cart" button on mobile
+Urgency elements: "Only 12 left in stock" (if applicable)
+Social proof: "Sarah from London just purchased this"
+Free shipping threshold: "Add $X more for free shipping"
+Product bundles with savings: "Save 15% when you buy the Growth Kit"
+Money-back guarantee badge
+Customer photos in reviews
+Content to Include
+Product Descriptions (use this formula for each):
+
+Hair Growth Oil: "Restore your edges and stimulate growth with rosemary oil, castor oil, and biotin. Perfect for postpartum hair loss and thinning hairlines."
+Whipped Hair Butter Cream: "Deep moisture and repair with shea butter, coconut oil, and vitamin E. Penetrates hair shaft for lasting hydration."
+Herbal Hair Mist: "Lightweight, water-based refresh between washes. Hydrates without buildup."
+Silk Bonnet: "Protect your progress while you sleep. Zero friction, retains moisture, lasts 3x longer."
+Trust Elements:
+
+"3,000+ Mothers Transformed"
+"100% Natural Ingredients"
+"Halal Certified"
+"Safe for Breastfeeding"
+"Ships to US, UK, Middle East, South Asia"
+"30-Day Money-Back Guarantee"
+"2-3 Day Processing, Free Shipping Over $50"
+Testimonials (use placeholders, I'll replace with real ones):
+
+"8 weeks after having my baby, my hair was falling out in clumps. After 6 weeks using HairQure oil, I have baby hairs everywhere!" - Sarah M.
+"My edges are BACK. I thought they were gone forever." - Aisha K.
+"Finally, halal hair care that actually works." - Fatima R.
+Additional Notes
+Integrate with Shopify for payment processing and order management
+Set up email marketing integration (Klaviyo or Mailchimp)
+Include blog section for SEO content (optional but recommended)
+Make it easy to add discount codes at checkout
+Enable product recommendations ("Customers also bought")
+Add "Subscribe & Save" option for recurring orders (if possible)
+Inspiration
+Clean, natural aesthetic like Glossier or Herbivore Botanicals
+Community-focused like Mielle Organics
+Conversion-optimized like Function of Beauty
+Culturally resonant like Fenty Beauty (inclusivity)
+Build this website to convert visitors into customers, tell the HairQure story authentically, and make it easy for postpartum mothers and women of faith to start their hair growth journey.
