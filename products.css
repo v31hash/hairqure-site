@@ -1,0 +1,184 @@
+/* ===== HairQure Product Section Styles ===== */
+.hq-section {
+  background: #0A0A0A;
+  color: #F5F5F0;
+  padding: 60px 40px;
+  margin: 30px 0;
+  border-radius: 4px;
+}
+
+.hq-eyebrow {
+  display: block;
+  color: #D4816F;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+
+.hq-heading {
+  font-family: Georgia, 'Playfair Display', serif;
+  font-size: 32px;
+  font-weight: 700;
+  color: #F5F5F0;
+  margin: 0 0 30px 0;
+}
+
+.hq-body-text {
+  font-size: 17px;
+  line-height: 1.7;
+  color: #C9C9C4;
+  margin-bottom: 20px;
+  max-width: 700px;
+}
+
+.hq-divider {
+  width: 50px;
+  height: 1px;
+  background: #444;
+  border: none;
+  margin: 25px 0;
+}
+
+/* Why This Exists — diamond bullet list */
+.hq-diamond-list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0 0 0;
+}
+.hq-diamond-list li {
+  position: relative;
+  padding-left: 24px;
+  margin-bottom: 14px;
+  color: #E5E5E0;
+  font-size: 16px;
+}
+.hq-diamond-list li::before {
+  content: "◆";
+  position: absolute;
+  left: 0;
+  color: #D4AF37;
+  font-size: 10px;
+  top: 6px;
+}
+
+/* Key Ingredients — numbered list */
+.hq-ingredient-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.hq-ingredient-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+  padding: 16px 0;
+  border-bottom: 1px solid #1f1f1f;
+}
+.hq-ingredient-list li:last-child { border-bottom: none; }
+.hq-ing-num {
+  font-family: 'Courier New', monospace;
+  color: #D4AF37;
+  font-size: 18px;
+  font-weight: 700;
+  min-width: 20px;
+}
+.hq-ing-name {
+  color: #F5F5F0;
+  font-weight: 600;
+  font-size: 16px;
+}
+.hq-ing-desc {
+  color: #999;
+  font-size: 15px;
+}
+
+/* How to Use — step list */
+.hq-step-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.hq-step-list li {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 18px 0;
+}
+.hq-step-num {
+  font-family: 'Courier New', monospace;
+  color: #D4AF37;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  min-width: 28px;
+}
+.hq-step-text {
+  color: #E5E5E0;
+  font-size: 16px;
+}
+
+/* What to Expect — timeline */
+.hq-timeline {
+  list-style: none;
+  padding: 0;
+  margin: 30px 0 0 0;
+  position: relative;
+}
+.hq-timeline li {
+  position: relative;
+  padding-left: 30px;
+  padding-bottom: 34px;
+  border-left: 1px solid #333;
+  margin-left: 5px;
+}
+.hq-timeline li:last-child {
+  border-left: 1px solid transparent;
+  padding-bottom: 0;
+}
+.hq-timeline li::before {
+  content: "";
+  position: absolute;
+  left: -5px;
+  top: 4px;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: #D4AF37;
+}
+.hq-timeline-label {
+  font-family: 'Courier New', monospace;
+  color: #D4AF37;
+  font-size: 14px;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 4px;
+}
+.hq-timeline-desc {
+  color: #C9C9C4;
+  font-size: 15px;
+}
+
+/* Perfect For — pill badges */
+.hq-pills-wrap {
+  text-align: center;
+}
+.hq-pills-wrap .hq-eyebrow,
+.hq-pills-wrap .hq-heading {
+  text-align: center;
+}
+.hq-pills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 25px;
+}
+.hq-pill {
+  border: 1px solid #444;
+  color: #E5E5E0;
+  padding: 10px 22px;
+  border-radius: 30px;
+  font-size: 14px;
+}
